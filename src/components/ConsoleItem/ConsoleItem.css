@@ -1,0 +1,9 @@
+.console-item {
+    margin-left: 0;
+    display: flex;
+    padding: 0px;
+    gap: 8px;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+

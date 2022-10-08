@@ -1,0 +1,32 @@
+.header {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}   
+
+.header__logo {
+    height: 18px;
+    margin-left: 8px;
+}
+
+.header__text {
+    height: 11px;
+    margin-left: 3px;
+}
+
+.header__button {
+    color: #2A7AE4;
+    border: 1px solid #2A7AE4;
+    padding: 12px 40px;
+    margin-left: 40px;
+    text-decoration: none;
+}
+
+.header__search {
+    height: 17px;
+    margin-left: 40px;
+}
