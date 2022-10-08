@@ -1,0 +1,40 @@
+.di2 {
+    width: 48%;
+}
+
+.di__img {
+    margin-top: 8px;
+    margin-bottom: 0;
+    margin-left: 8px;
+    padding: 0;
+    width: 156px;
+    height: 174px;
+
+}
+
+.di__p {
+    margin-top: 8px;
+    margin-bottom: 0;
+    margin-left: 8px;
+    padding: 0;
+}
+
+.di__h6 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    padding: 0;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.di__a {
+    text-decoration: none;
+    color: #2A7AE4;
+    margin-bottom: 0;
+    margin-left: 8px;
+    font-weight: 700;
+}
