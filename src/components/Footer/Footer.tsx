@@ -21,11 +21,12 @@ function Footer() {
                     <input type="text" name="name" id="name" placeholder='André Lisboa' className='input'/>
                     </div>
 
-                    <div>
-                    <label htmlFor="message" className='label'>Mensagem</label>
+                    <div  className='footer__form-name'>
+                    <label htmlFor="message" className='label'></label>
                     <textarea name="message" id="message" placeholder='Escreva sua mensagem' className='input'></textarea>
                     </div>
                 </form>
+                <button type='submit' className='footer__button'>Enviar mensagem</button>
             </div>
         </footer>
     )
