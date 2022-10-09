@@ -38,3 +38,9 @@
     margin-left: 8px;
     font-weight: 700;
 }
+
+@media screen and (min-width: 768px) {
+    .di3 {
+        width: 24%;
+    }
+}
