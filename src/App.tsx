@@ -2,6 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import Consoles from './components/Consoles/Consoles'
 import Diversos from './components/Diversos/Diversos'
+import Footer from './components/Footer/Footer'
 import Header from './components/Header/Header'
 import Hero from './components/Hero/Hero'
 import StarWars from './components/StarWars/StarWars'
@@ -14,6 +15,7 @@ function App() {
       <StarWars />
       <Consoles />
       <Diversos />
+      <Footer />
     </div>
   )
 }
